@@ -1,0 +1,73 @@
+.home{
+    width: 100%;
+    align-items: center;
+    color: rgb(247, 236, 236);
+    justify-content: center;
+}
+.about{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - 100px);
+    background-color: rgb(21, 21, 126);
+    color: rgb(164, 49, 49);
+}
+.about h2{
+    font-size: 55px;
+    color: rgb(158, 158, 53);
+    height: 50px;
+}
+.prompt{
+    width: 45%;
+    font-size: 20px;
+}
+.prompt svg{
+    font-size: 45px;
+    color: bisque;
+    margin: 5px;
+}
+.skills{
+    font-size: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.skills h1{
+    color: rgb(16, 62, 16);
+}
+.skills .list{
+    list-style: none;
+    width: 50%;
+}
+.list h2{
+    color: black;
+}
+.list span{
+    font-size: 25px;
+    color: black;
+}
+.experience{
+    font-size: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.experience h1{
+     color: rgb(16, 62, 16);
+     
+}
+.prompt1 {
+     color: rgb(16, 62, 16);
+     font-size: 30px;
+}
